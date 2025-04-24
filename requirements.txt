@@ -1,0 +1,11 @@
+python-telegram-bot[job-queue]==20.0
+yfinance==0.2.18
+pandas==1.5.3
+beautifulsoup4==4.12.2
+requests==2.28.2
+transformers==4.36.2
+torch==2.2.1
+flask==2.2.5
+waitress==2.1.2
+pytz==2023.3
+numpy==1.23.5
